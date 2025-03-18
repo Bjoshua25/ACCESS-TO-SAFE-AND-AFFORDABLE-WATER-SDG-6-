@@ -57,10 +57,15 @@ Line                                                      |         100% Stacked
 
 3. **Investigating Access by Population Size**
    - Used **100% stacked column charts** to compare water access by national, urban, and rural population sizes.
+   ![](National_population_access_to_water_per_service_share.png)
+   ![](Average_Population_Access_to_Water_per_service_share.png)
+   ![](Rural_population_Access_to_water_per_service_share.png)
 
 4. **Investigating Access by Income Group**
    - Created a **pivot table** summarizing population, urbanization, and access levels for different income groups.
    - Converted income group text to numeric format for easier sorting and visualization.
+
+   ![](Income_Group_access_to_Water_per_Service_Share.png)
 
 ## **CONCLUSION**
 This analysis reveals:
