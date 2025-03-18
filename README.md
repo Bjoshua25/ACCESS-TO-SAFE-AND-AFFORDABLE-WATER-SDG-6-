@@ -1,5 +1,6 @@
 # **ACCESS TO SAFE AND AFFORDABLE WATER (SDG-6)**
-*Google Sheets Project*
+**_Google Sheets Project_**
+
 ![](Cover_image.jpg)
 
 ## **INTRODUCTION**
@@ -14,6 +15,8 @@ Access to clean drinking water remains a challenge in many regions, leading to h
 - **Data Transformation**: Creating new features like population estimates and water access levels.
 - **Data Analysis**: Exploring population size, area-wise water access, and income-based trends.
 - **Data Visualization**: Using line charts, stacked column charts, box-and-whisker plots, and pivot tables.
+
+![](Box_plot.png)
 
 ## **DATA SOURCING**
 The dataset is sourced from the **WHO/UNICEF JMP Estimates on the Use of Water (2020)**. It includes information on the percentage of the population with access to different levels of water service (basic, limited, unimproved, surface) across various regions and income groups.
@@ -43,6 +46,10 @@ While this project does not involve predictive modeling, various statistical ana
    - Compared dataset population with world estimates.
    - Created a **line chart** for national, urban, and rural population shares.
    - Used **percentage difference** to measure dataset accuracy.
+
+Line                                                      |         100% Stacked
+:----------------------------------------------------------|--------------------------------------------------------------:
+![](Natonal_Poplation_versus_Rural_and_Urban_shares_1.png)  | ![](Natonal_Poplation_versus_Rural_and_Urban_shares.png)
 
 2. **Investigating Access by Area**
    - Calculated max, min, mean, median, and IQR for each access level.
